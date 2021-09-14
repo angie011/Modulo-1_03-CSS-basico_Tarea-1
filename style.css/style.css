@@ -1,0 +1,28 @@
+h1{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.defClases{
+    width: 500px;
+}
+
+.defClases h1:hover,.defElementos h1:hover{
+    color:blue;
+    font-style: oblique;
+}
+
+.defClases p:hover{
+    background-color: lawngreen;
+    text-align: justify;
+}
+
+.defElementos p:hover{
+    background-color: yellow;
+    text-align: justify;
+}
+
+span {
+    font-style: oblique;
+    font-weight: bold;
+}
